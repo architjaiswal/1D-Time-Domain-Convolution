@@ -1,9 +1,3 @@
-Junfu Cheng
-77844387
-
-Archit Jaiswal
-28112009
-
 Instructions: 
 
 We write our own dram_rd and it 100% passed the SW test on server
